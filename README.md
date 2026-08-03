@@ -13,5 +13,6 @@ One issue is when you start the client while in game, you will have to rejoin fo
 I could probably fix this but its hard so I don't wanna.
   
 Also its only for cool people not diddybluds so yeah.  
-<img src="https://github.com/user-attachments/assets/f05ff1a7-579e-4b81-bb35-6980557b9aa9" width="50%" height="50%">
+<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/84a670d9-6284-4b64-bb2d-bcfb0afb3d13" />
+
 
