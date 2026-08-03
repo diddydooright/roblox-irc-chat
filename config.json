@@ -1,0 +1,8 @@
+{
+    "irc": {
+        "server": "irc.libera.chat",
+        "port": 6667,
+        "nickname": "JohnDoe",
+        "raw_irc_messages": false
+    }
+}
